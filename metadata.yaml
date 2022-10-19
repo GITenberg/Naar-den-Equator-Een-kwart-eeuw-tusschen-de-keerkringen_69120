@@ -1,0 +1,32 @@
+_repo: Naar-den-Equator-Een-kwart-eeuw-tusschen-de-keerkringen_69120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perelaer, M. T. H. (Michael Theophile Hubert)
+    aliases:
+    - Perelaer, Michael Theophile Hubert
+    - Perelaer, T. H. (Theophile Hubert)
+    - Perelaer, Michaël Théophile Hubert
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '51125'
+    url: http://www.gutenberg.org/2009/agents/51125
+description: ''
+gutenberg_issued: '2022-10-09'
+identifiers:
+  gutenberg: '69120'
+language: nl
+pgterms:marc905: 20210102084350perelaer
+pgterms:marc906: '1884'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from images
+  made available by the HathiTrust Digital Library.)
+publication_note: Netherlands :Uitgevers-Maatschappij "Elsevier",1884.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Naar den Equator: Een kwart eeuw tusschen de keerkringen'
+url: http://www.gutenberg.org/ebooks/69120
