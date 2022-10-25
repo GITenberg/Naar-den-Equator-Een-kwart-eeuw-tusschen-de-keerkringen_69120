@@ -1,5 +1,8 @@
 _repo: Naar-den-Equator-Een-kwart-eeuw-tusschen-de-keerkringen_69120
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69120-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Perelaer, M. T. H. (Michael Theophile Hubert)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '51125'
     url: http://www.gutenberg.org/2009/agents/51125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69120#Naar-den-Equator-Een-kwart-eeuw-tusschen-de-keerkringen
 gutenberg_issued: '2022-10-09'
 identifiers:
   gutenberg: '69120'
